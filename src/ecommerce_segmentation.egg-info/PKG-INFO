@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ecommerce-segmentation
+Version: 0.2.0
+Summary: RFM customer segmentation + future-purchase prediction for an e-commerce transaction log
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn==1.7.2
+Requires-Dist: joblib==1.5.2
+Provides-Extra: app
+Requires-Dist: streamlit; extra == "app"
+Provides-Extra: notebook
+Requires-Dist: jupyter; extra == "notebook"
+Requires-Dist: matplotlib; extra == "notebook"
+Requires-Dist: seaborn; extra == "notebook"
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/ecommerce_segmentation/__init__.py
+src/ecommerce_segmentation/churn_model.py
+src/ecommerce_segmentation/config.py
+src/ecommerce_segmentation/data_loading.py
+src/ecommerce_segmentation/feature_engineering.py
+src/ecommerce_segmentation/inference.py
+src/ecommerce_segmentation/segmentation.py
+src/ecommerce_segmentation/train_pipeline.py
+src/ecommerce_segmentation.egg-info/PKG-INFO
+src/ecommerce_segmentation.egg-info/SOURCES.txt
+src/ecommerce_segmentation.egg-info/dependency_links.txt
+src/ecommerce_segmentation.egg-info/requires.txt
+src/ecommerce_segmentation.egg-info/top_level.txt
+tests/test_pipeline.py
